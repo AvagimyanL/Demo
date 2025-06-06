@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\templateapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\templateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\templateapp\\addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|c:\\users\\acer\\downloads\\templates\\templates\\templateapp\\templateapp\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|c:\\users\\acer\\downloads\\templates\\templates\\templateapp\\templateapp\\addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\addpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|c:\\users\\acer\\downloads\\templates\\templates\\templateapp\\templateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0A6DD-F6B5-4CEA-B836-E7E8246DD235}|TemplateApp\\TemplateApp.csproj|solutionrelative:templateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPage.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\AddPage.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\AddPage.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\AddPage.cs",
+              "RelativeToolTip": "TemplateApp\\AddPage.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAEwFAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:20:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\AddPage.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\AddPage.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\AddPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TemplateApp\\AddPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:17:18.442Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\MainMenu.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TemplateApp\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:04:18.336Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\Form1.cs",
+              "RelativeToolTip": "TemplateApp\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:28:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TemplateApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:26:46.216Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\DbContext.cs",
+              "RelativeDocumentMoniker": "TemplateApp\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\templates\\templates\\TemplateApp\\TemplateApp\\DbContext.cs",
+              "RelativeToolTip": "TemplateApp\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:31:16.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

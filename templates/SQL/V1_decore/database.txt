@@ -1,0 +1,46 @@
+CREATE TABLE users(
+id int not null primary key,
+fio varchar(255),
+email varchar(100),
+login varchar(50),
+password varchar(50));
+
+CREATE TABLE partners(
+id int not null primary key,
+type varchar(100),
+name varchar(50),
+adress text,
+inn varchar(50),
+fio_dir varchar(250),
+email varchar(100),
+url_logo text,
+top int);
+
+CREATE TABLE matherial_types(
+type varchar(100) not null primary key,
+break float(4));
+
+CREATE TABLE matherials(
+name varchar(255) not null primary key,
+type_matherial varchar(100) not null references matherial_types(type),
+price float(4),
+count int,
+min_count int,
+count_cell int,
+matric varchar(20));
+
+CREATE TABLE product_types(
+type varchar(100) not null primary key,
+coof float(4));
+
+CREATE TABLE products(
+name varchar(255) not null primary key,
+product_type varchar(100) not null references product_types(type),
+articul bigint,
+min_price float(4),
+weigth float(4));
+
+CREATE TABLE product_matherials(
+product_name varchar(255) not null references products(name),
+name_matherial varchar(255) not null references matherials(name),
+count float(4));
